@@ -110,4 +110,3 @@ Alongside my software development projects, I have worked with machine learning 
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/karimelmouslemany/)
 
-GitHub: [GitHub](https://github.com/KarimElmouslemany)
