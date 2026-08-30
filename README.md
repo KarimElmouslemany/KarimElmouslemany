@@ -69,7 +69,7 @@ A full-stack web application built with **HTML, Tailwind CSS and JavaScript** th
 
 [Live Application](https://symptom-checker-karim-22562295.onrender.com)
 
-### 🎮 Counter-Strike 2 Statistics Tracker
+### 🎮 Counter-Strike 2 Statistics Tracker [↗](https://github.com/KarimElmouslemany/counter-strike-2-tracker)
 
 A mobile statistics tracker for Counter-Strike 2, built using **React Native and Expo**.
 
@@ -85,7 +85,7 @@ A mobile statistics tracker for Counter-Strike 2, built using **React Native and
 
 **Project Status: Currently in development and continuing to be improved.**
 
-### 💰 Banking and Budgeting Application
+### 💰 Banking and Budgeting Application [↗](https://github.com/KarimElmouslemany/BANKING-AND-BUDGETING-APPLICATION)
 
 A mobile banking and budgeting application built using **C#, .NET MAUI and XAML**.
 
@@ -97,7 +97,7 @@ A mobile banking and budgeting application built using **C#, .NET MAUI and XAML*
 5. ATM finder using OpenStreetMap
 6. API integration, JSON processing and geolocation
 
-# 🧠 AI & Machine Learning
+# 🧠 AI & Machine Learning 
 
 Alongside my software development projects, I have worked with machine learning and deep learning using **Python**.
 
@@ -106,6 +106,7 @@ Alongside my software development projects, I have worked with machine learning 
 * Evaluated models using precision, recall and ROC/AUC
 * Built a Convolutional Neural Network (CNN) using TensorFlow/Keras for chest X-ray classification
 
+[Link to AI & Machine Learning reposetory](https://github.com/KarimElmouslemany/MACHINE-LEARNING-AI-COURSEWORK)
 # 📫 Connect With Me
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/karimelmouslemany/)
