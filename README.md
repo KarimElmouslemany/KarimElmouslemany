@@ -55,7 +55,7 @@ I'm interested in software engineering, full-stack development, mobile developme
   
 # 🚀 Featured Projects
 
-### 🩺 Symptom Checker Web App
+### 🩺 Symptom Checker Web App [↗](https://github.com/KarimElmouslemany/Symptom-Checker-Web-App)
 
 A full-stack web application built with **HTML, Tailwind CSS and JavaScript** that allows users to explore symptoms and receive relevant guidance through an AI-powered chatbot.
 
