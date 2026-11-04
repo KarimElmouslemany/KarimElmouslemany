@@ -35,6 +35,7 @@ I'm interested in software engineering, full-stack development, mobile developme
 * .NET MAUI
 * Firebase Authentication
 * Tailwind CSS
+* PostgreSQL
   
 # 🤖 AI & Machine Learning
 
